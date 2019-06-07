@@ -5,7 +5,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "javascript-typescript-langserver": "^2.11.1",
+    "javascript-typescript-langserver": "^2.11.3",
     "jsonrpc-ws-proxy": "~0.0.5",
     "vscode-css-languageserver-bin": "^1.4.0",
     "vscode-html-languageserver-bin": "^1.4.0"
